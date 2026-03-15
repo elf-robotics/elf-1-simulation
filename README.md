@@ -70,6 +70,11 @@ Install MuJoCo Python bindings:
 pip install mujoco
 ```
 
+Python version used for this project:
+Python 3.9.25
+
+The simulation was tested with Python 3.9.25. Other Python 3.x versions may also work.
+
 # Run the Simulation
 
 Example experiment: **arm movement**
